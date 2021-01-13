@@ -18,6 +18,7 @@ public class ImageWithRoundedCorners : MonoBehaviour {
 	}
 
 	private void Refresh(){
+		Debug.Log("refreshing");
 		var rect = ((RectTransform) transform).rect;
 		material.SetVector(Props, new Vector4(rect.width, rect.height, radius, 0));
 	}

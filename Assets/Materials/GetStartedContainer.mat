@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: GetStartedContainer
-  m_Shader: {fileID: 4800000, guid: 0bd2ec5d73751e34a814274a454bec41, type: 3}
+  m_Shader: {fileID: 4800000, guid: d3beb88e61f88ca4393acdefb005fa70, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -82,4 +82,7 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _WidthHeightRadius: {r: 720, g: 710.7, b: 174.9, a: 0}
+    - _WidthHeightRadius: {r: 692.1395, g: 768.66376, b: 174.9, a: 0}
+    - _halfSize: {r: 346.06976, g: 347.70688, b: 0, a: 0}
+    - _r: {r: 80, g: 80, b: 0, a: 0}
+    - _rect2props: {r: 0.000030517578, g: -40.00006, b: 462.28992, a: 462.28992}
