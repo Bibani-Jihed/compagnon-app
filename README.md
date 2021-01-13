@@ -5,5 +5,4 @@
   Compagnon app for your Seemba Account
   <br>
 </h1>
-# compagnon-app
 
